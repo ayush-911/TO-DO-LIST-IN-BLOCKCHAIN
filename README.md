@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 To-Do List on Blockchain (Soroban Smart Contract)
 
 ## 📌 Project Description
@@ -150,3 +151,6 @@ Ayush Kr Trivedi
 ## 📜 License
 
 This project is open-source and available for educational and development purposes.
+=======
+
+>>>>>>> 0f5f3089907848fccca0e691ec2482a376dcffa4
